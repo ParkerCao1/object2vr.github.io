@@ -5,17 +5,15 @@
 		"js": [],
 		"css": []
 	},
-	"skin": {
-		"js": "skin.js"
-	},
+	"skin": {},
 	"player": {
 		"js": "object2vr_player.js"
 	},
-	"creationdate": "2024-06-17T03:17:33.262Z",
+	"creationdate": "2024-06-18T03:07:16.173Z",
 	"configuration": "object.xml",
 	"preview": {
 		"img": "preview.jpg",
 		"width": 640,
-		"height": 480
+		"height": 360
 	}
 }
